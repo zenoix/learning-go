@@ -52,6 +52,10 @@
           "store_path": "/nix/store/mdn9hnvf0qmxywbrpbywmxww2adxdn5v-go-1.24.4"
         }
       }
+    },
+    "golangci-lint": {
+      "resolved": "github:NixOS/nixpkgs/80d50fc87924c2a0d346372d242c27973cf8cdbf?narHash=sha256-3u6rEbIX9CN%2F5A5%2Fmc3u0wIO1geZ0EhjvPBXmRDHqWM%3D#golangci-lint",
+      "source": "nixpkg"
     }
   }
 }
